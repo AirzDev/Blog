@@ -1,0 +1,5 @@
+.env
+partials
+data.js
+vercel.js
+node_modules
